@@ -1,0 +1,6 @@
+SupplierID,SupplierName,Region,AvgLeadTimeDays
+1,AlphaSupplies,North,18
+2,BetaTraders,South,8
+3,GammaDistributors,East,13
+4,DeltaImports,West,10
+5,EpsilonExports,Central,17
